@@ -13,8 +13,10 @@ public class takeTurn {
         y = yCoordinate;
     }
 
-    public String[][] newBoard()
+    public String[][] fillBoard()
     {
-        board[xCoordinate][yCoordinate]
+        String x = "X";
+
+
     }
 }
